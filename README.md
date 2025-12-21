@@ -1,2 +1,4 @@
-# Rust
-Repository to store my Rust learning process, using the official book!
+## Rust
+Repository to document my Rust learning process, using the [official book](https://doc.rust-lang.org/stable/book/)!
+
+Will mostly upload code from project chapters.
