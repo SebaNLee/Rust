@@ -9,3 +9,7 @@ Extension (VSC):
 Docs (with XServer, VcXsrv):
     sudo apt install firefox
     rustup doc
+
+Commands:
+    (compile): rustc <path>
+    (format): rustfmt <path>
