@@ -6,4 +6,6 @@ WSL:
 Extension (VSC):
     rust-analyzer, rust-lang.org
 
-
+Docs (with XServer, VcXsrv):
+    sudo apt install firefox
+    rustup doc
