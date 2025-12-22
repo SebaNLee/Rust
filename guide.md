@@ -25,3 +25,8 @@
 ### [Cargo Workspaces](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.htm- ):
 - add path to member in root Cargo.toml
 - (run from root): ```cargo run -p <package>```
+
+### Debug
+- rust-analyzer fails:
+    * ```rm -rf ~/.cache/rust-analyzer```
+    * ```rm -rf target```
