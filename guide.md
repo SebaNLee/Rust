@@ -20,3 +20,8 @@ Cargo:
     (build and run): cargo run
     (build without binary): cargo check
     (build with optimization): cargo build --release
+
+
+[Cargo Workspaces](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html):
+    add path to member in root Cargo.toml
+    (run from root): cargo run -p <package>
