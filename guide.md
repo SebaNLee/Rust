@@ -13,3 +13,10 @@ Docs (with XServer, VcXsrv):
 Commands:
     (compile): rustc <path>
     (format): rustfmt <path>
+
+Cargo:
+    (new): cargo new <project>
+    (build, default is debug): ./target/debug/<project>
+    (build and run): cargo run
+    (build without binary): cargo check
+    (build with optimization): cargo build --release
