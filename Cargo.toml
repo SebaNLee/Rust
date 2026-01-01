@@ -3,4 +3,5 @@ resolver = "3"
 members = [
     "01.getting_started/hello_cargo",
     "02.programming_a_guessing_game/guessing_game",
+    "12.an_io_project_building_a_cli_program/minigrep",
 ]
