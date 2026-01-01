@@ -22,8 +22,8 @@
 - (build with optimization): ```cargo build --release```
 
 
-### [Cargo Workspaces](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.htm- ):
-- add path to member in root Cargo.toml
+### [Cargo Workspaces](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html):
+- add path to member in root Cargo.toml (cargo new does add it automatically)
 - (run from root): ```cargo run -p <package>```
 
 ### Debug
